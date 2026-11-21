@@ -6,7 +6,7 @@ Two incoming calls display the same name. The customer opens the banking app to 
 
 **Run it:** download the repository as a ZIP, extract it, and double-click **index.html**. Select **EN** for English. The entire demo runs offline, including the classifier. The support chat, call sessions and outreach records are synthetic.
 
-[Seven-slide pitch in Russian](presentation/pitch-ru.pdf)
+[Watch the 56-second demo (RU captions)](https://drive.google.com/file/d/1nQdzAscv4F-odgBBxqy6PiqWb5xhcpX2/view?usp=drivesdk) · [Seven-slide pitch in Russian](presentation/pitch-ru.pdf)
 
 Независимая концепция для THE CIS SPRINT, трек Protect the little guy: human & transaction. В качестве примера указан Mashreq NEO; этот прототип не создан банком, не использует его интерфейс или сервисы и не заявляет об уязвимости.
 
